@@ -582,6 +582,11 @@
             strb x14, [x10, x12] // Almacenar en buffer
             mov x0, x13      // Actualizar x0 para siguiente dígito
             add x12
+## 6 Conversión de ASCII a entero
+## 7 Conversión de entero a ASCII
+## 8 Calcular la longitud de una cadena
+## 9 Suma de elementos en un arreglo
+## 10 Leer entrada desde el teclado
 # Programas Dificultad: Intermedia
 
 # Programas Dificultad: Dificil
